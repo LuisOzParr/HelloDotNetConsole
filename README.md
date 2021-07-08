@@ -1,0 +1,2 @@
+# HelloDotNetConsole
+Learning .NET 👨🏻‍💻
